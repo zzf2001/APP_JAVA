@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35356c1e-f40c-46f6-ad72-45ca884c60f1" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/newapp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/androidTest/java/com/example/newapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/java/com/example/newapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/java/com/example/newapp/evaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/java/com/example/newapp/show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable-v24/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_book_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_computer_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_emoji_events_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_mood_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_baseline_person_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/drawable/shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/layout/activity_evaluation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/layout/activity_show.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/layout/activity_show2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/layout/all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newapp/app/src/test/java/com/example/newapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22N0Qxi3CM0DTHLm03QQV7AX2mI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="35356c1e-f40c-46f6-ad72-45ca884c60f1" name="更改" comment="" />
+      <created>1639662725195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639662725195</updated>
+      <workItem from="1639662726901" duration="397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

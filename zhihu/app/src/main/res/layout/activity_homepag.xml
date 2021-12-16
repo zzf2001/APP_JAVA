@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+      >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        >
+
+        <ImageView
+            android:id="@+id/backMain"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@drawable/fanhui"/>
+    </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical|center_horizontal"
+            >
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/iv_head"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:onClick="changeAvatar"
+                android:src="@mipmap/ic_launcher"
+                app:shapeAppearanceOverlay="@style/circleImageStyle" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center_vertical|center_horizontal"
+            >
+            <TextView
+                android:id="@+id/peoplename"
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+                android:text="ambious"
+                android:maxLines="1"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal|top"
+                android:ellipsize="end"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/top"
+        android:paddingRight="20dp"
+        >
+        <TextView
+            android:id="@+id/mycollection"
+            android:paddingLeft="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="我的收藏"
+            android:gravity="center_vertical"
+            android:drawableRight="@drawable/ic_baseline_arrow_forward_ios_24"
+            ></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/top"
+        android:paddingRight="20dp"
+        >
+        <TextView
+            android:paddingLeft="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="消息中心（一时半会估计不会做）"
+            android:gravity="center_vertical"
+            android:drawableRight="@drawable/ic_baseline_arrow_forward_ios_24"
+            ></TextView>
+    </LinearLayout>
+
+    </LinearLayout>
